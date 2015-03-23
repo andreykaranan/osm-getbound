@@ -1,0 +1,1 @@
+Script that downloads boundary from Openstreetmap and saves it as .poly file
